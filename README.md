@@ -14,7 +14,7 @@ Trago uma bagagem única que conecta **dados, tomada de decisão e comportamento
 
 ---
 
-## 📈 Projetos em Destaque
+## 📈 Projeto em Destaque
 
 * **[Dashboard de Inteligência de Mercado Odontológico]:** Análise de Geomarketing e performance de atração de clientes utilizando Power BI.
 https://github.com/kamilaslago/powerbi-geomarketing-clinica-odontologica
